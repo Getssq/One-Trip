@@ -1,4 +1,4 @@
-# one-trip
+# one-trip-web
 
 > A Vue.js project
 
